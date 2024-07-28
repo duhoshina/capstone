@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/capstone/static/css/main.56d7d77e.css",
+    "main.js": "/capstone/static/js/main.c2bb3fff.js",
+    "static/js/453.99c1801e.chunk.js": "/capstone/static/js/453.99c1801e.chunk.js",
+    "static/media/restaurantchef.jpg": "/capstone/static/media/restaurantchef.4b4c2d26b514db32e8fc.jpg",
+    "static/media/restauranfood.jpg": "/capstone/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/restaurant.jpg": "/capstone/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
+    "static/media/logo-white.png": "/capstone/static/media/logo-white.d09eb2af6c5a2225eedf.png",
+    "static/media/Logo.svg": "/capstone/static/media/Logo.6c132dfefa69396bba43f72aa595e62f.svg",
+    "index.html": "/capstone/index.html",
+    "static/media/delivery.svg": "/capstone/static/media/delivery.51c0da9db08aea9794adf2fd86bd007a.svg",
+    "static/media/star.svg": "/capstone/static/media/star.d2bfb195dd145c54fb07c2d9f67dc4b1.svg",
+    "static/media/hamburger.svg": "/capstone/static/media/hamburger.0da6f67ced800ab909f63d5144de37ee.svg",
+    "main.56d7d77e.css.map": "/capstone/static/css/main.56d7d77e.css.map",
+    "main.c2bb3fff.js.map": "/capstone/static/js/main.c2bb3fff.js.map",
+    "453.99c1801e.chunk.js.map": "/capstone/static/js/453.99c1801e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56d7d77e.css",
+    "static/js/main.c2bb3fff.js"
+  ]
+}
